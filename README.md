@@ -16,7 +16,7 @@
 </a>    
 <a href="https://github.com/vanhdev-web/Students-performances-Forecast">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vanhdev-we&repo=Students-performances-Forecast&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vanhdev-web&repo=Students-performances-Forecast&theme=merko" />
 </a>
 <a href="https://github.com/vanhdev-web/Diabetes-Prediction">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
