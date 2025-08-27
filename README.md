@@ -12,9 +12,6 @@
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 
-  <a href="https://github.com/vanhdev-web/Career_level_Classification-nlp">
-    <img height="300" style="object-fit: cover;" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vanhdev-web&repo=Career_level_Classification-nlp&theme=radical" />
-  </a>
 
   <a href="https://github.com/vanhdev-web/Students-performances-Forecast">
     <img height="300" style="object-fit: cover;" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vanhdev-web&repo=Students-performances-Forecast&theme=merko" />
@@ -24,6 +21,9 @@
     <img height="300" style="object-fit: cover;" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vanhdev-web&repo=Diabetes-Prediction&theme=gruvbox" />
   </a>
 
+  <a href="https://github.com/vanhdev-web/Career_level_Classification-nlp">
+    <img height="300" style="object-fit: cover;" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vanhdev-web&repo=Career_level_Classification-nlp&theme=radical" />
+  </a>
 </div>
  
 
