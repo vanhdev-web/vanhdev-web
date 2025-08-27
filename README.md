@@ -1,4 +1,5 @@
 ### WELCOME TO MY PAGE 🌟🌟🌟
+📚 Hi there, My name is VIET ANH
 🚀 I'm a Software Engineering student passionate about AI 🤖  
 💡 Interested in Machine Learning, Deep Learning, Computer Vision, NLP, and LLMs 🧠 
 
@@ -10,9 +11,10 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanhdev-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 
-
+# 💻 My Projects
   <a href="https://github.com/vanhdev-web/Students-performances-Forecast">
     <img height="300" style="object-fit: cover;" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vanhdev-web&repo=Students-performances-Forecast&theme=merko" />
   </a>
