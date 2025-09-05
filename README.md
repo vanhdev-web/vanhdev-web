@@ -26,6 +26,11 @@
   <a href="https://github.com/vanhdev-web/Career_level_Classification-nlp">
     <img height="300" style="object-fit: cover;" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vanhdev-web&repo=Career_level_Classification-nlp&theme=radical" />
   </a>
+
+  <a href="https://github.com/vanhdev-web/Co2_tsf">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vanhdev-web&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
+</a>
 </div>
  
 
