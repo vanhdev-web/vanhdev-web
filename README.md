@@ -36,7 +36,7 @@
 
   <a href="https://github.com/vanhdev-web/Tech_News_cbf">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vanhdev-web&repo=Tech_News_cbf&theme=highcontrast" />
+  <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vanhdev-web&repo=Tech_News_cbf&theme=highcontrast" />
 </a>    
 </div>
  
