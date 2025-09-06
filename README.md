@@ -3,8 +3,6 @@
 🚀 I'm a Software Engineering student passionate about AI 🤖  
 💡 Interested in Machine Learning, Deep Learning, Computer Vision, NLP, and LLMs 🧠 
 
-![](https://github-readme-stats.vercel.app/api?username=vanhdev-web&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanhdev-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
