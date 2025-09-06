@@ -15,6 +15,10 @@
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 
 # 💻 My Projects
+  <a href="https://github.com/vanhdev-web/Movies_Recommendation">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vanhdev-web&repo=Movies_Recommendation&theme=merko" />
+</a> 
   <a href="https://github.com/vanhdev-web/Students-performances-Forecast">
     <img height="300" style="object-fit: cover;" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vanhdev-web&repo=Students-performances-Forecast&theme=merko" />
   </a>
