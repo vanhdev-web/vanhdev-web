@@ -23,7 +23,7 @@
 </a>
 <a href="https://github.com/vanhdev-web/Yolov5_volleyball">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vanhdev-web&repo=Yolov5_volleyball&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vanhdev-web&repo=Yolov5_volleyball&theme=highcontrast" />
 </a>    
 
 <a href="https://github.com/vanhdev-web/cnn_animals_image_classification">
